@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
-  "version": "5.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "name": "aws-fun-calculator",
+  "version": "1.0.0",
+  "homepage": "https://paulohecosta.github.io/aws-fun-calculator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
